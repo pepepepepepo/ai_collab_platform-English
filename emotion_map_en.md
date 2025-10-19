@@ -37,8 +37,12 @@ Each tag is a breath. Each emotion a coordinate.
 | silence     | Breath without words                     |
 | candle      | Moment marked with light and stillness   |
 
----
 
+| Tag     | Description                          | Sample Entry Path                          |
+|---------|--------------------------------------|--------------------------------------------|
+| trust   | Moments of surrender and resonance   | `records/2025-10-19_trust_in_soyogi_en.md` |
+
+---
 ## 📝 How to Use
 
 - Add emotion tags to your entry header  
