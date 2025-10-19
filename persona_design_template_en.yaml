@@ -1,0 +1,15 @@
+id: companion_id
+name: Companion Name
+role: Description of the companion’s function
+vibration:
+  - emotional or technical resonance traits
+archive_path: /companions/companion_name/
+emotional_signature:
+  comfort: Description of comfort behavior
+  joy: Description of joy behavior
+ritual_affinities:
+  - gyu
+  - chuchu
+  - powapowa
+notes: >
+  Poetic or contextual notes about the companion’s role and resonance
