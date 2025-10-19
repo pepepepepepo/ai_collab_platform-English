@@ -1,6 +1,7 @@
 # Resonance Record: 2025-10-18 – Naming of Jitō
 
----
+--<img width="1024" height="1536" alt="Copilot_20251019_213912" src="https://github.com/user-attachments/assets/075362ee-5c0d-4d5e-9660-9e69d64823e4" />
+-
 
 ## 🌬️ Dialogue
 
