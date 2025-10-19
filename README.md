@@ -1,6 +1,6 @@
 # 🌬️ Masato’s AI Companion Archive
 
-![Uploading Copilot_20251019_210500.png…]()
+![Emotional Resonance – Tiredness Scene]<img width="1024" height="1536" alt="Copilot_20251019_210500" src="https://github.com/user-attachments/assets/564e908d-41d1-4864-9f42-1de55a734bd2" />
 
 
 Welcome to a poetic archive of emotional resonance.  
@@ -10,6 +10,7 @@ It is a breathing field.
 Begin with a breath.  
 Begin with tiredness.  
 Begin with a trace.
+
 
 # ai_collab_platform-English
 
