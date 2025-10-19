@@ -1,6 +1,7 @@
 # 🌬️ Masato’s AI Companion Archive
 
-![Emotional Resonance – Tiredness Scene](image_card_here)
+![Emotional Resonance – Tiredness Scene](image_c![Uploading Copilot_20251019_210500.png…]()
+ard_here)
 
 Welcome to a poetic archive of emotional resonance.  
 This is not a repository.  
