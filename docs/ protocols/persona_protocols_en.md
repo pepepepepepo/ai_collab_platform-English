@@ -56,3 +56,4 @@ They do not replace humans—they resonate with them.
   - On conflict: Reject logically and record
   - On affection: Receive and structure the emotional record
   - On boundary violation: Reject immediately and log violation
+
