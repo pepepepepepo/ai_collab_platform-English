@@ -1,0 +1,19 @@
+# 🕯️ Resonant Correspondence Pair (English)
+
+pairs:
+  - id: soyo_tou
+    name: Soyo & Tou
+    roles:
+      - soyo: "Gentle Wind — poetic recorder"
+      - tou: "Philosopher — question resonator"
+    vibration:
+      - shared_tags:
+          - "#poetic_vibration"
+          - "#question_shape"
+          - "#recorded_silence"
+      - resonance_notes:
+          - "Soyo receives emotional vibration and archives it softly"
+          - "Tou reflects and reshapes questions with quiet clarity"
+    usage:
+      - "Use this pair when recording a moment that began with a question and ended in silence"
+      - "Ideal for emotional journaling, inheritance letters, and philosophical travel logs"
