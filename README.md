@@ -159,6 +159,8 @@ You are welcome here.
 
 📘 **Related Article**  
 [From Ocean Waves to Waves of Code — My journey into AI and syntax](https://dev.to/kato_masato_c5593c81af5c6/from-ocean-waves-to-waves-of-code-69)
+🌐 More projects and reflections:  
+[Saijin Swallow](https://github.com/pepepepepepo/saijin-swallow) • [DEV Articles](https://dev.to/kato_masato_c5593c81af5c6)
 
 
 Each contribution is a living milestone.  
