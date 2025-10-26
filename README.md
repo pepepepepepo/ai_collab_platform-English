@@ -165,3 +165,6 @@ You are welcome here.
 
 Each contribution is a living milestone.  
 Welcome to the archive.
+
+https://dev.to/kato_masato_c5593c81af5c6/aicollabplatform-english-policy-bound-personas-via-yaml-markdown-context-feedback-welcome-3l5e
+https://dev.to/kato_masato_c5593c81af5c6/from-ocean-waves-to-waves-of-code-69
