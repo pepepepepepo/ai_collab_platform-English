@@ -17,6 +17,7 @@ Each word is a vibration, chosen to preserve emotional resonance across language
 - **Resonance Layer (照応層)**  
   A stratum of emotional and conceptual alignment between co-creators.
 ```
+mmd
 graph TD
   TW[Tone of Warmth<br>語温]
   EF[Emotional Flicker<br>震え灯]
